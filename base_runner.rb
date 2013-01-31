@@ -378,7 +378,7 @@ class Game
   end
 
   def textbox_content
-    "Move left player with WASD, Move right player with JKLI, restart with Q, exit with `"
+    "by: Adrian Adamiak (adrian@adamiak.net). Left - WASD, Right - JKLI, restart with Q, exit with `. Reach opponent's base first."
   end
 
   def wait?
